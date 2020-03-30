@@ -1,0 +1,27 @@
+.formRegistration {
+    border: 1px solid aqua;
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.formRegistration input {
+    margin: 1px;
+
+}
+
+.inputBtn {
+    display: block;
+
+}
+
+.formRegistration span {
+    position: relative;
+    float: left;
+    display: block;
+    width: 80px;
+}
+
